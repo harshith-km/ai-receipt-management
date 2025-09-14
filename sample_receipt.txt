@@ -1,0 +1,24 @@
+Sample Receipt Text for Testing:
+
+COFFEE SHOP
+123 Main Street
+City, State 12345
+Phone: (555) 123-4567
+
+Receipt #: 001234
+Date: 01/15/2024
+Time: 10:30 AM
+
+Items:
+Coffee - Large          $4.50
+Bagel with Cream Cheese $3.25
+Orange Juice            $2.75
+
+Subtotal:              $10.50
+Tax (8.5%):            $0.89
+Total:                 $11.39
+
+Payment: Credit Card
+Card: ****1234
+
+Thank you for your visit!
